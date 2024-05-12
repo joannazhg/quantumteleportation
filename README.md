@@ -22,7 +22,7 @@ Copy code
 ## Usage
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/quantum-teleportation.git
+git clone https://github.com/joannazhg/quantumteleportation.git
 Copy code
 2. Navigate to the repository directory:
 cd quantum-teleportation
